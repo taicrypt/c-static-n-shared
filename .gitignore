@@ -1,0 +1,29 @@
+# Ignore intermediate files, object files and binaries
+*.i
+*.s
+*.o
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore editor and IDE files
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln
+*.xcodeproj/
+*.xcworkspace/
+
+# Ignore generated documentation
+docs/
+
+# Ignore temporary files
+*.swp
+*~
+
+# Ignore build artifacts
+bin/
+lib/
